@@ -1,2 +1,1 @@
-# httpclient-wiremock-test
-Experimente für synchrone und asynchrone Kommunikation mit dem HTTPClient von Java 11 und WireMock.
+Die Beispiele sind getrennt nach synchroner und asynchroner Kommunikation in je einer JUnit-Testklasse. 
